@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you reference the Born-Agentic Organization model, please cite this repository as below."
+title: "Born-Agentic Organization"
+abstract: >-
+  Born-Agentic Organization is a Role-first organizational model for AI-native
+  companies. The persistent unit of the organization is the Role, not the
+  Employee, not the Agent, and not the Model. Role Agents can begin working
+  before humans are hired, detect Capability Gaps, request human collaborators
+  through Machine-Initiated Hiring, and preserve organizational memory across
+  employee turnover. This repository contains the concept, reference
+  architecture and v0.1 specifications.
+type: report
+authors:
+  - family-names: "Yang"
+    given-names: "Shengguo"
+    alias: "yangshengguo46-stack"
+version: "0.1"
+date-released: "2026-09-11"
+repository-code: "https://github.com/yangshengguo46-stack/born-agentic-organization"
+url: "https://github.com/yangshengguo46-stack/born-agentic-organization"
+keywords:
+  - born-agentic
+  - born-agentic-organization
+  - role-first
+  - role-agent
+  - capability-gap
+  - machine-initiated-hiring
+  - human-assignment
+  - active-organizational-memory
+  - capability-allocation
+  - ai-native
+  - agentic-ai
+  - ai-agents
+  - autonomous-agents
+  - multi-agent-systems
+  - agent-architecture
+  - organizational-design
+  - organizational-memory
+  - human-ai-collaboration
+  - future-of-work
